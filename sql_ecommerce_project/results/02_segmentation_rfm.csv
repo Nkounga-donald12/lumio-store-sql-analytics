@@ -1,0 +1,868 @@
+client,recence_jours,frequence,montant_total,score_r,score_f,score_m,score_rfm_total,segment_rfm
+Sarah Richard,0,8,5560.1,4,4,4,12,Champion
+Liam David,0,16,10038.71,4,4,4,12,Champion
+Jules Simon,0,25,16718.98,4,4,4,12,Champion
+Hugo Roux,1,8,5641.44,4,4,4,12,Champion
+Emma David,1,17,11477.74,4,4,4,12,Champion
+Raphaël Lefebvre,2,8,4751.51,4,4,4,12,Champion
+Jade Thomas,2,10,5406.06,4,4,4,12,Champion
+Inès Robert,3,12,5636.91,4,4,4,12,Champion
+Zoé Thomas,3,17,8995.41,4,4,4,12,Champion
+Gabriel Martin,4,7,4238.38,4,4,4,12,Champion
+Lina Martin,4,11,6369.87,4,4,4,12,Champion
+Mia Roux,4,16,11765.94,4,4,4,12,Champion
+Raphaël Bertrand,5,27,18384.69,4,4,4,12,Champion
+Camille Dubois,6,11,8480.06,4,4,4,12,Champion
+Chloé Petit,6,12,8862.78,4,4,4,12,Champion
+Noé Robert,6,12,10292.88,4,4,4,12,Champion
+Louis Martin,6,13,7146.11,4,4,4,12,Champion
+Sarah Thomas,7,7,4983.35,4,4,4,12,Champion
+Noé Bertrand,7,7,6014.53,4,4,4,12,Champion
+Hugo Petit,9,11,6493.47,4,4,4,12,Champion
+Lucas Garcia,9,18,10819.79,4,4,4,12,Champion
+Lina Fournier,12,7,5338.61,4,4,4,12,Champion
+Sarah Vincent,13,8,6482.55,4,4,4,12,Champion
+Louis Garcia,14,10,7700.72,4,4,4,12,Champion
+Chloé Fournier,16,9,4630.91,4,4,4,12,Champion
+Hugo Robert,16,18,12113.92,4,4,4,12,Champion
+Chloé Bernard,17,7,4671.0,4,4,4,12,Champion
+Hugo Robert,17,8,6125.01,4,4,4,12,Champion
+Hugo Petit,17,14,9016.74,4,4,4,12,Champion
+Manon Simon,18,6,3648.57,4,4,4,12,Champion
+Emma Garcia,18,14,7270.91,4,4,4,12,Champion
+Emma David,19,12,4678.29,4,4,4,12,Champion
+Zoé Durand,19,16,10224.78,4,4,4,12,Champion
+Tom Thomas,20,9,7631.83,4,4,4,12,Champion
+Chloé Lefebvre,20,14,5809.23,4,4,4,12,Champion
+Zoé Michel,20,17,8762.9,4,4,4,12,Champion
+Adam Simon,21,10,6470.41,4,4,4,12,Champion
+Manon Petit,21,17,7897.01,4,4,4,12,Champion
+Liam Roux,21,20,11062.92,4,4,4,12,Champion
+Sarah Martin,23,6,3804.77,4,4,4,12,Champion
+Raphaël Lefebvre,23,9,5552.56,4,4,4,12,Champion
+Jade Dubois,23,12,6110.24,4,4,4,12,Champion
+Jade Leroy,24,12,6369.72,4,4,4,12,Champion
+Lina David,25,8,4170.94,4,4,4,12,Champion
+Nathan Thomas,26,7,5181.55,4,4,4,12,Champion
+Jules Vincent,26,9,4162.23,4,4,4,12,Champion
+Adam Petit,26,9,6023.04,4,4,4,12,Champion
+Adam David,26,10,5612.0,4,4,4,12,Champion
+Raphaël Dubois,26,16,7035.02,4,4,4,12,Champion
+Jules Vincent,27,8,5168.5,4,4,4,12,Champion
+Théo Robert,27,10,5651.62,4,4,4,12,Champion
+Tom Robert,31,7,4128.56,4,4,4,12,Champion
+Chloé Richard,32,6,5512.99,4,4,4,12,Champion
+Tom Vincent,32,7,5484.91,4,4,4,12,Champion
+Manon Simon,32,8,7408.0,4,4,4,12,Champion
+Tom Dubois,33,12,4980.97,4,4,4,12,Champion
+Théo Thomas,34,9,4904.11,4,4,4,12,Champion
+Lucas Petit,37,9,4992.56,4,4,4,12,Champion
+Raphaël Vincent,42,6,3827.93,4,4,4,12,Champion
+Zoé Thomas,42,8,4704.01,4,4,4,12,Champion
+Hugo Durand,42,10,5935.89,4,4,4,12,Champion
+Liam David,42,12,5211.05,4,4,4,12,Champion
+Nathan Michel,42,19,14773.92,4,4,4,12,Champion
+Tom Roux,46,6,4015.28,4,4,4,12,Champion
+Hugo Robert,48,7,5015.83,4,4,4,12,Champion
+Gabriel Dubois,50,10,5888.46,4,4,4,12,Champion
+Jules Thomas,52,6,3741.71,4,4,4,12,Champion
+Lina Richard,53,14,7075.24,4,4,4,12,Champion
+Noé David,56,6,4413.23,4,4,4,12,Champion
+Noé Robert,56,15,6207.79,4,4,4,12,Champion
+Lucas Richard,57,8,4119.96,4,4,4,12,Champion
+Manon Bertrand,59,17,14426.4,4,4,4,12,Champion
+Mia Dubois,60,6,3672.27,4,4,4,12,Champion
+Inès Roux,60,8,5749.41,4,4,4,12,Champion
+Tom Simon,60,14,6019.85,4,4,4,12,Champion
+Adam Garcia,62,6,4147.17,4,4,4,12,Champion
+Jules Robert,63,7,5584.24,4,4,4,12,Champion
+Adam Bernard,63,25,15402.06,4,4,4,12,Champion
+Noé Dubois,67,9,3865.27,4,4,4,12,Champion
+Hugo Durand,69,12,9553.78,4,4,4,12,Champion
+Jade Petit,70,12,5827.84,4,4,4,12,Champion
+Hugo Thomas,71,10,4683.42,4,4,4,12,Champion
+Lucas Thomas,72,11,5947.73,4,4,4,12,Champion
+Camille Michel,76,9,5739.34,4,4,4,12,Champion
+Lina Durand,2,7,3447.89,4,4,3,11,Champion
+Liam Martin,3,7,2273.58,4,4,3,11,Champion
+Jade Roux,5,5,3873.33,4,3,4,11,Champion
+Jade Laurent,12,6,3430.76,4,4,3,11,Champion
+Jules Lefebvre,15,5,3961.08,4,3,4,11,Champion
+Noé Garcia,17,8,3468.52,4,4,3,11,Champion
+Manon Michel,18,7,3467.38,4,4,3,11,Champion
+Lucas Moreau,20,6,3255.69,4,4,3,11,Champion
+Anna Garcia,22,7,2942.65,4,4,3,11,Champion
+Anna Bertrand,29,4,3697.35,4,3,4,11,Champion
+Louis Dubois,31,5,3951.39,4,3,4,11,Champion
+Emma Simon,36,7,3332.77,4,4,3,11,Champion
+Zoé Fournier,52,7,3295.32,4,4,3,11,Champion
+Liam Fournier,62,5,4385.88,4,3,4,11,Champion
+Hugo Lefebvre,77,6,4120.06,3,4,4,11,Champion
+Emma Simon,79,7,6105.0,3,4,4,11,Champion
+Zoé Garcia,80,7,4570.04,3,4,4,11,Champion
+Camille Simon,82,15,11088.11,3,4,4,11,Champion
+Noé Dubois,88,22,12377.35,3,4,4,11,Champion
+Théo Thomas,91,26,15981.04,3,4,4,11,Champion
+Manon Dubois,98,9,3948.83,3,4,4,11,Champion
+Anna Richard,100,17,10322.92,3,4,4,11,Champion
+Noé Vincent,104,6,4436.35,3,4,4,11,Champion
+Inès Roux,109,16,8236.53,3,4,4,11,Champion
+Mia Vincent,114,10,5987.09,3,4,4,11,Champion
+Jules David,117,21,15240.79,3,4,4,11,Champion
+Lucas Garcia,118,10,5793.13,3,4,4,11,Champion
+Tom Garcia,128,15,10692.29,3,4,4,11,Champion
+Emma Durand,130,11,7383.23,3,4,4,11,Champion
+Noé Simon,132,7,5371.08,3,4,4,11,Champion
+Raphaël Lefebvre,136,16,10366.7,3,4,4,11,Champion
+Théo Petit,136,17,11956.15,3,4,4,11,Champion
+Tom Moreau,141,7,4782.54,3,4,4,11,Champion
+Lina Moreau,143,7,4508.98,3,4,4,11,Champion
+Hugo Dubois,146,12,8379.52,3,4,4,11,Champion
+Lucas Durand,153,6,4762.38,3,4,4,11,Champion
+Mia Martin,155,8,4189.76,3,4,4,11,Champion
+Noé Roux,157,6,3972.05,3,4,4,11,Champion
+Anna Laurent,158,7,3493.17,3,4,4,11,Champion
+Gabriel Richard,158,7,3970.85,3,4,4,11,Champion
+Manon Petit,158,10,6600.67,3,4,4,11,Champion
+Raphaël Bertrand,160,20,8438.48,3,4,4,11,Champion
+Adam Simon,166,7,4742.39,3,4,4,11,Champion
+Théo Simon,166,8,3595.67,3,4,4,11,Champion
+Manon Bernard,168,11,7722.25,3,4,4,11,Champion
+Adam Moreau,183,7,4423.25,3,4,4,11,Champion
+Théo Leroy,184,13,9907.49,3,4,4,11,Champion
+Lina Richard,185,7,4378.45,3,4,4,11,Champion
+Jules Bertrand,188,16,11290.36,3,4,4,11,Champion
+Lucas David,204,8,6145.16,3,4,4,11,Champion
+Manon Martin,205,10,4367.23,3,4,4,11,Champion
+Tom Michel,207,6,3571.62,3,4,4,11,Champion
+Lina Moreau,208,22,12509.19,3,4,4,11,Champion
+Raphaël Simon,214,7,5009.81,3,4,4,11,Champion
+Nathan Leroy,217,6,4679.58,3,4,4,11,Champion
+Lucas Martin,219,10,8422.61,3,4,4,11,Champion
+Nathan Bernard,221,9,5995.2,3,4,4,11,Champion
+Zoé Durand,231,6,4205.18,3,4,4,11,Champion
+Camille David,244,7,4785.61,3,4,4,11,Champion
+Chloé Robert,249,8,3487.12,3,4,4,11,Champion
+Léa Moreau,250,8,4976.83,3,4,4,11,Champion
+Liam Fournier,252,18,12032.79,3,4,4,11,Champion
+Tom Richard,253,11,6062.35,3,4,4,11,Champion
+Camille Lefebvre,255,10,6416.77,3,4,4,11,Champion
+Mia Moreau,263,26,15981.17,3,4,4,11,Champion
+Tom Laurent,268,21,12634.16,3,4,4,11,Champion
+Inès Laurent,276,6,4555.64,3,4,4,11,Champion
+Jade Michel,277,13,8403.61,3,4,4,11,Champion
+Hugo Dubois,282,6,4184.51,3,4,4,11,Champion
+Liam Leroy,294,6,4457.55,3,4,4,11,Champion
+Lina Fournier,2,4,3033.89,4,3,3,10,Champion
+Adam Laurent,2,5,2202.93,4,3,3,10,Champion
+Mia Fournier,3,4,1930.18,4,3,3,10,Champion
+Raphaël Moreau,3,5,1750.83,4,3,3,10,Champion
+Noé Richard,5,5,3286.62,4,3,3,10,Champion
+Gabriel Lefebvre,5,5,3319.63,4,3,3,10,Champion
+Théo Fournier,5,5,3465.51,4,3,3,10,Champion
+Anna Simon,5,6,2442.66,4,3,3,10,Champion
+Gabriel Michel,7,5,2113.88,4,3,3,10,Champion
+Tom Dubois,9,4,2443.68,4,3,3,10,Champion
+Tom Laurent,10,5,2501.93,4,3,3,10,Champion
+Sarah Bertrand,11,3,1511.32,4,3,3,10,Champion
+Lina Martin,11,3,2546.65,4,3,3,10,Champion
+Liam Moreau,14,5,3357.86,4,3,3,10,Champion
+Théo Moreau,15,3,2313.67,4,3,3,10,Champion
+Tom Bernard,15,3,2872.96,4,3,3,10,Champion
+Inès Garcia,16,3,2238.99,4,3,3,10,Champion
+Léa Martin,16,3,3377.91,4,3,3,10,Champion
+Anna Robert,20,3,2693.37,4,3,3,10,Champion
+Raphaël Bertrand,20,5,2099.2,4,3,3,10,Champion
+Noé Garcia,21,5,2818.55,4,3,3,10,Champion
+Adam Roux,23,3,1655.12,4,3,3,10,Champion
+Gabriel Thomas,23,5,2514.14,4,3,3,10,Champion
+Jules Richard,25,5,2085.46,4,3,3,10,Champion
+Noé Moreau,27,3,2141.59,4,3,3,10,Champion
+Emma Lefebvre,27,4,2330.41,4,3,3,10,Champion
+Noé Richard,28,3,1476.36,4,3,3,10,Champion
+Théo Dubois,30,2,2749.84,4,3,3,10,Champion
+Mia Robert,33,3,1583.91,4,3,3,10,Champion
+Lina Thomas,34,4,3246.3,4,3,3,10,Champion
+Sarah Dubois,34,4,3326.29,4,3,3,10,Champion
+Lucas Moreau,38,4,2622.69,4,3,3,10,Champion
+Camille Michel,38,4,2810.8,4,3,3,10,Champion
+Liam Robert,41,3,1764.57,4,3,3,10,Champion
+Adam Garcia,43,4,1895.25,4,3,3,10,Champion
+Raphaël Leroy,44,6,2268.76,4,3,3,10,Champion
+Jules Bernard,46,3,2290.01,4,3,3,10,Champion
+Noé Richard,48,4,2263.23,4,3,3,10,Champion
+Tom Laurent,51,5,2943.63,4,3,3,10,Champion
+Hugo Fournier,52,3,1550.6,4,3,3,10,Champion
+Sarah Petit,54,4,2050.77,4,3,3,10,Champion
+Jade Lefebvre,57,3,2945.57,4,3,3,10,Champion
+Liam Laurent,57,4,1950.18,4,3,3,10,Champion
+Zoé Robert,69,5,3208.21,4,3,3,10,Champion
+Léa Laurent,70,4,1805.28,4,3,3,10,Champion
+Lina David,71,4,2360.79,4,3,3,10,Champion
+Tom Richard,75,3,2362.28,4,3,3,10,Champion
+Chloé Richard,75,4,1891.34,4,3,3,10,Champion
+Anna Bertrand,80,6,2818.12,3,4,3,10,Champion
+Jules Fournier,88,8,2858.75,3,4,3,10,Champion
+Adam Lefebvre,104,8,2560.02,3,4,3,10,Champion
+Sarah Petit,108,3,3802.8,3,3,4,10,Champion
+Louis Michel,109,6,3404.1,3,4,3,10,Champion
+Jade Thomas,120,5,3719.88,3,3,4,10,Champion
+Mia Martin,123,5,3624.46,3,3,4,10,Champion
+Chloé Garcia,137,5,3646.35,3,3,4,10,Champion
+Inès Laurent,156,5,3657.92,3,3,4,10,Champion
+Emma Michel,223,5,4950.37,3,3,4,10,Champion
+Noé Fournier,232,5,3668.73,3,3,4,10,Champion
+Lucas Robert,239,6,3331.42,3,4,3,10,Champion
+Léa Garcia,268,5,3817.6,3,3,4,10,Champion
+Raphaël Vincent,294,19,9067.05,2,4,4,10,À risque (était bon client)
+Jade Richard,296,10,5648.46,2,4,4,10,À risque (était bon client)
+Anna Simon,298,23,12338.25,2,4,4,10,À risque (était bon client)
+Raphaël Robert,302,9,4224.84,2,4,4,10,À risque (était bon client)
+Camille Bernard,304,14,6418.1,2,4,4,10,À risque (était bon client)
+Tom Leroy,307,10,5577.1,2,4,4,10,À risque (était bon client)
+Emma Roux,310,11,7885.77,2,4,4,10,À risque (était bon client)
+Louis Michel,311,11,6311.2,2,4,4,10,À risque (était bon client)
+Zoé Vincent,316,12,8165.39,2,4,4,10,À risque (était bon client)
+Chloé Bertrand,317,7,4518.99,2,4,4,10,À risque (était bon client)
+Adam Roux,317,7,4910.13,2,4,4,10,À risque (était bon client)
+Tom Dubois,320,23,12915.54,2,4,4,10,À risque (était bon client)
+Raphaël Robert,331,8,5898.97,2,4,4,10,À risque (était bon client)
+Anna Leroy,331,9,7915.03,2,4,4,10,À risque (était bon client)
+Mia Garcia,342,7,4038.3,2,4,4,10,À risque (était bon client)
+Louis Moreau,344,6,4071.15,2,4,4,10,À risque (était bon client)
+Emma Leroy,350,10,8147.54,2,4,4,10,À risque (était bon client)
+Liam Robert,353,11,7485.45,2,4,4,10,À risque (était bon client)
+Liam Michel,353,15,10869.24,2,4,4,10,À risque (était bon client)
+Zoé Lefebvre,357,23,11707.1,2,4,4,10,À risque (était bon client)
+Jade Garcia,359,20,11733.6,2,4,4,10,À risque (était bon client)
+Anna Bertrand,367,20,10316.95,2,4,4,10,À risque (était bon client)
+Adam David,373,11,7450.32,2,4,4,10,À risque (était bon client)
+Nathan Thomas,375,20,11498.8,2,4,4,10,À risque (était bon client)
+Tom Moreau,378,8,4837.54,2,4,4,10,À risque (était bon client)
+Louis Garcia,380,8,7148.25,2,4,4,10,À risque (était bon client)
+Hugo Moreau,383,13,9724.59,2,4,4,10,À risque (était bon client)
+Noé Martin,383,23,10746.49,2,4,4,10,À risque (était bon client)
+Liam Simon,396,17,12381.9,2,4,4,10,À risque (était bon client)
+Jules Vincent,397,24,13222.85,2,4,4,10,À risque (était bon client)
+Nathan Simon,410,12,6568.05,2,4,4,10,À risque (était bon client)
+Hugo Martin,414,8,4122.23,2,4,4,10,À risque (était bon client)
+Zoé Durand,431,12,8217.97,2,4,4,10,À risque (était bon client)
+Jade Bertrand,444,17,11641.77,2,4,4,10,À risque (était bon client)
+Lina Petit,447,6,4167.01,2,4,4,10,À risque (était bon client)
+Théo Michel,447,8,6119.62,2,4,4,10,À risque (était bon client)
+Sarah Bernard,450,13,8276.05,2,4,4,10,À risque (était bon client)
+Nathan Garcia,456,9,8066.03,2,4,4,10,À risque (était bon client)
+Hugo Vincent,456,10,6664.81,2,4,4,10,À risque (était bon client)
+Emma Leroy,463,6,4831.9,2,4,4,10,À risque (était bon client)
+Gabriel Simon,470,7,4680.98,2,4,4,10,À risque (était bon client)
+Noé David,474,11,9137.31,2,4,4,10,À risque (était bon client)
+Adam Leroy,485,20,12002.26,2,4,4,10,À risque (était bon client)
+Chloé Petit,487,11,9710.73,2,4,4,10,À risque (était bon client)
+Liam Laurent,488,9,6540.52,2,4,4,10,À risque (était bon client)
+Lucas Lefebvre,491,10,7388.6,2,4,4,10,À risque (était bon client)
+Raphaël Leroy,507,6,6391.68,2,4,4,10,À risque (était bon client)
+Léa Leroy,514,10,5413.69,2,4,4,10,À risque (était bon client)
+Zoé Fournier,527,10,6449.98,2,4,4,10,À risque (était bon client)
+Théo Michel,541,9,3760.26,2,4,4,10,À risque (était bon client)
+Camille Bernard,551,10,6016.06,2,4,4,10,À risque (était bon client)
+Liam Martin,0,2,2071.75,4,2,3,9,Client fidèle
+Camille Petit,1,2,1492.37,4,2,3,9,Client fidèle
+Louis Michel,6,3,1420.12,4,3,2,9,Client fidèle
+Théo Robert,8,3,1336.94,4,3,2,9,Client fidèle
+Sarah Thomas,11,3,1243.43,4,3,2,9,Client fidèle
+Manon Dubois,11,4,1242.42,4,3,2,9,Client fidèle
+Manon Vincent,14,3,927.38,4,3,2,9,Client fidèle
+Emma Dubois,15,2,1670.21,4,2,3,9,Client fidèle
+Raphaël Thomas,18,3,1010.69,4,3,2,9,Client fidèle
+Inès Thomas,23,3,1414.29,4,3,2,9,Client fidèle
+Jules Lefebvre,25,3,1236.66,4,3,2,9,Client fidèle
+Jules Leroy,34,3,1014.25,4,3,2,9,Client fidèle
+Tom Fournier,35,3,1224.57,4,3,2,9,Client fidèle
+Sarah Moreau,43,2,1657.06,4,2,3,9,Client fidèle
+Chloé Thomas,49,2,1981.84,4,2,3,9,Client fidèle
+Jade Lefebvre,50,3,1265.21,4,3,2,9,Client fidèle
+Jules Bertrand,56,2,1455.91,4,2,3,9,Client fidèle
+Nathan Vincent,56,2,1750.41,4,2,3,9,Client fidèle
+Jade Thomas,56,2,1972.71,4,2,3,9,Client fidèle
+Mia Simon,57,1,1434.26,4,2,3,9,Client fidèle
+Lucas Simon,57,3,1174.73,4,3,2,9,Client fidèle
+Théo Durand,66,3,1171.66,4,3,2,9,Client fidèle
+Gabriel Leroy,68,2,1949.65,4,2,3,9,Client fidèle
+Louis Garcia,70,3,1152.34,4,3,2,9,Client fidèle
+Anna Garcia,74,3,746.38,4,3,2,9,Client fidèle
+Lina Fournier,78,4,2485.36,3,3,3,9,Champion
+Zoé Thomas,79,4,2014.47,3,3,3,9,Champion
+Inès Vincent,79,5,3199.59,3,3,3,9,Champion
+Jules Garcia,80,4,2743.15,3,3,3,9,Champion
+Manon Simon,82,3,1713.82,3,3,3,9,Champion
+Hugo Vincent,83,2,2302.54,3,3,3,9,Champion
+Manon Lefebvre,83,4,2034.2,3,3,3,9,Champion
+Lucas Vincent,90,4,2716.84,3,3,3,9,Champion
+Adam Leroy,91,5,3271.08,3,3,3,9,Champion
+Tom Roux,91,6,1760.37,3,3,3,9,Champion
+Lina Robert,94,4,1926.22,3,3,3,9,Champion
+Mia Thomas,98,4,3325.22,3,3,3,9,Champion
+Hugo Laurent,98,5,1730.77,3,3,3,9,Champion
+Léa Bertrand,111,3,1903.74,3,3,3,9,Champion
+Mia Moreau,115,4,2146.53,3,3,3,9,Champion
+Emma Bertrand,117,4,1939.27,3,3,3,9,Champion
+Emma Lefebvre,128,5,1610.74,3,3,3,9,Champion
+Nathan David,128,5,2632.18,3,3,3,9,Champion
+Zoé Robert,139,5,2345.33,3,3,3,9,Champion
+Liam Petit,141,4,1655.44,3,3,3,9,Champion
+Raphaël Petit,147,5,1696.83,3,3,3,9,Champion
+Manon Roux,149,4,1528.78,3,3,3,9,Champion
+Léa Bernard,149,5,2189.74,3,3,3,9,Champion
+Hugo Roux,153,2,2303.66,3,3,3,9,Champion
+Tom Vincent,168,4,1493.75,3,3,3,9,Champion
+Nathan Laurent,168,5,2430.63,3,3,3,9,Champion
+Sarah Fournier,176,2,2601.0,3,3,3,9,Champion
+Théo Bernard,176,5,2303.56,3,3,3,9,Champion
+Zoé Roux,196,3,2035.6,3,3,3,9,Champion
+Sarah Petit,196,4,2194.13,3,3,3,9,Champion
+Tom Petit,203,3,1786.58,3,3,3,9,Champion
+Manon Moreau,212,4,2766.75,3,3,3,9,Champion
+Zoé Roux,217,4,2991.12,3,3,3,9,Champion
+Gabriel Dubois,224,5,2581.84,3,3,3,9,Champion
+Louis Garcia,227,2,2332.63,3,3,3,9,Champion
+Zoé Durand,230,4,2433.47,3,3,3,9,Champion
+Tom Michel,233,5,2077.3,3,3,3,9,Champion
+Jade Simon,241,6,2721.32,3,3,3,9,Champion
+Mia Simon,242,4,2078.27,3,3,3,9,Champion
+Léa Fournier,244,4,2273.36,3,3,3,9,Champion
+Hugo Garcia,258,5,2536.52,3,3,3,9,Champion
+Inès Michel,259,4,2550.87,3,3,3,9,Champion
+Camille David,262,5,2864.56,3,3,3,9,Champion
+Mia Richard,266,4,2118.47,3,3,3,9,Champion
+Noé Vincent,271,3,1458.13,3,3,3,9,Champion
+Adam Robert,275,3,1951.18,3,3,3,9,Champion
+Lina Simon,291,6,2572.11,3,3,3,9,Champion
+Nathan Roux,293,3,2965.61,3,3,3,9,Champion
+Adam Vincent,293,5,3309.83,3,3,3,9,Champion
+Chloé Dubois,303,7,3255.53,2,4,3,9,À risque (était bon client)
+Noé Bernard,310,5,4808.89,2,3,4,9,À risque (était bon client)
+Chloé Lefebvre,312,6,3289.95,2,4,3,9,À risque (était bon client)
+Camille Michel,320,5,3789.44,2,3,4,9,À risque (était bon client)
+Noé Richard,352,7,3418.52,2,4,3,9,À risque (était bon client)
+Gabriel Lefebvre,356,4,3963.53,2,3,4,9,À risque (était bon client)
+Adam Garcia,380,6,3326.28,2,4,3,9,À risque (était bon client)
+Louis Dubois,382,5,5377.24,2,3,4,9,À risque (était bon client)
+Liam Simon,398,5,3916.1,2,3,4,9,À risque (était bon client)
+Jade Robert,402,6,3328.39,2,4,3,9,À risque (était bon client)
+Emma Laurent,449,5,3670.62,2,3,4,9,À risque (était bon client)
+Louis Simon,496,8,2158.71,2,4,3,9,À risque (était bon client)
+Jules Simon,527,5,3539.33,2,3,4,9,À risque (était bon client)
+Mia Robert,533,4,3689.77,2,3,4,9,À risque (était bon client)
+Hugo Leroy,549,5,4341.76,2,3,4,9,À risque (était bon client)
+Mia David,549,7,3125.58,2,4,3,9,À risque (était bon client)
+Raphaël Lefebvre,616,11,5365.03,1,4,4,9,À risque (était bon client)
+Raphaël David,674,9,5716.21,1,4,4,9,À risque (était bon client)
+Noé Simon,677,7,6176.56,1,4,4,9,À risque (était bon client)
+Anna Garcia,12,2,737.11,4,2,2,8,Client fidèle
+Sarah Lefebvre,13,2,1146.25,4,2,2,8,Client fidèle
+Jules Fournier,14,2,1267.57,4,2,2,8,Client fidèle
+Anna Martin,18,2,853.51,4,2,2,8,Client fidèle
+Sarah Roux,21,1,1169.01,4,2,2,8,Client fidèle
+Manon Bertrand,26,1,1227.01,4,2,2,8,Client fidèle
+Inès Simon,27,2,1126.22,4,2,2,8,Client fidèle
+Sarah Laurent,36,1,1021.96,4,2,2,8,Client fidèle
+Sarah Durand,38,1,797.09,4,2,2,8,Client fidèle
+Anna Petit,43,2,1225.39,4,2,2,8,Client fidèle
+Léa Thomas,45,2,1066.02,4,2,2,8,Client fidèle
+Camille Richard,49,1,908.26,4,2,2,8,Client fidèle
+Raphaël Dubois,50,2,1306.02,4,2,2,8,Client fidèle
+Liam Bertrand,52,3,328.59,4,3,1,8,Client fidèle
+Léa Bernard,53,2,713.79,4,2,2,8,Client fidèle
+Nathan Laurent,61,2,742.2,4,2,2,8,Client fidèle
+Noé Moreau,62,2,703.77,4,2,2,8,Client fidèle
+Théo Vincent,63,1,970.86,4,2,2,8,Client fidèle
+Jules Simon,67,2,1034.92,4,2,2,8,Client fidèle
+Zoé Lefebvre,72,1,867.94,4,2,2,8,Client fidèle
+Hugo Thomas,72,2,1051.47,4,2,2,8,Client fidèle
+Adam Simon,75,1,1329.55,4,2,2,8,Client fidèle
+Raphaël Michel,76,1,988.02,4,2,2,8,Client fidèle
+Jules Bernard,78,3,1155.05,3,3,2,8,Client fidèle
+Noé David,78,4,1360.44,3,3,2,8,Client fidèle
+Lucas Lefebvre,93,2,1895.22,3,2,3,8,Client fidèle
+Anna Moreau,100,3,939.85,3,3,2,8,Client fidèle
+Nathan Vincent,108,2,1739.22,3,2,3,8,Client fidèle
+Liam Bernard,114,4,1237.45,3,3,2,8,Client fidèle
+Inès Vincent,137,3,993.96,3,3,2,8,Client fidèle
+Raphaël Laurent,139,1,1494.11,3,2,3,8,Client fidèle
+Liam Moreau,155,2,1656.0,3,2,3,8,Client fidèle
+Sarah Vincent,156,2,1741.14,3,2,3,8,Client fidèle
+Mia Thomas,166,1,1589.73,3,2,3,8,Client fidèle
+Manon Laurent,169,4,1295.87,3,3,2,8,Client fidèle
+Lucas Leroy,216,2,1993.9,3,2,3,8,Client fidèle
+Jules Fournier,219,2,1480.93,3,2,3,8,Client fidèle
+Raphaël Fournier,233,2,1679.98,3,2,3,8,Client fidèle
+Liam Lefebvre,236,1,1520.65,3,2,3,8,Client fidèle
+Sarah Michel,244,3,1193.47,3,3,2,8,Client fidèle
+Raphaël Simon,303,4,2981.13,2,3,3,8,À risque (était bon client)
+Léa Leroy,308,2,2285.11,2,3,3,8,À risque (était bon client)
+Chloé Garcia,315,4,1857.37,2,3,3,8,À risque (était bon client)
+Adam Durand,321,5,3299.64,2,3,3,8,À risque (était bon client)
+Manon Laurent,327,3,1702.82,2,3,3,8,À risque (était bon client)
+Zoé Martin,337,5,2525.79,2,3,3,8,À risque (était bon client)
+Nathan Bernard,354,3,1661.57,2,3,3,8,À risque (était bon client)
+Chloé David,358,5,3143.9,2,3,3,8,À risque (était bon client)
+Jade Garcia,376,4,2813.35,2,3,3,8,À risque (était bon client)
+Camille Moreau,385,5,3079.02,2,3,3,8,À risque (était bon client)
+Anna Bernard,390,5,2668.91,2,3,3,8,À risque (était bon client)
+Lucas Dubois,407,5,2493.87,2,3,3,8,À risque (était bon client)
+Lucas Leroy,413,4,2636.19,2,3,3,8,À risque (était bon client)
+Lina Fournier,423,6,2735.5,2,3,3,8,À risque (était bon client)
+Tom Lefebvre,427,4,1449.16,2,3,3,8,À risque (était bon client)
+Nathan Fournier,435,5,2308.59,2,3,3,8,À risque (était bon client)
+Anna Roux,452,4,2788.44,2,3,3,8,À risque (était bon client)
+Sarah Michel,461,4,2880.45,2,3,3,8,À risque (était bon client)
+Léa Laurent,461,4,3102.19,2,3,3,8,À risque (était bon client)
+Anna Bernard,464,5,1584.01,2,3,3,8,À risque (était bon client)
+Manon Thomas,466,4,1932.45,2,3,3,8,À risque (était bon client)
+Sarah Fournier,467,5,3205.0,2,3,3,8,À risque (était bon client)
+Lucas Lefebvre,474,4,3337.74,2,3,3,8,À risque (était bon client)
+Noé Vincent,479,3,1566.27,2,3,3,8,À risque (était bon client)
+Théo Leroy,490,3,2066.86,2,3,3,8,À risque (était bon client)
+Mia Martin,494,4,2720.94,2,3,3,8,À risque (était bon client)
+Louis Robert,494,5,2406.27,2,3,3,8,À risque (était bon client)
+Inès Bernard,495,2,2342.14,2,3,3,8,À risque (était bon client)
+Louis Robert,502,5,2670.68,2,3,3,8,À risque (était bon client)
+Inès Fournier,504,5,2507.37,2,3,3,8,À risque (était bon client)
+Raphaël Dubois,510,4,1617.68,2,3,3,8,À risque (était bon client)
+Mia Michel,513,5,2766.65,2,3,3,8,À risque (était bon client)
+Sarah Dubois,544,4,1781.81,2,3,3,8,À risque (était bon client)
+Adam David,601,7,2933.89,1,4,3,8,À risque (était bon client)
+Adam Leroy,12,2,575.25,4,2,1,7,Client fidèle
+Léa Dubois,17,2,518.08,4,2,1,7,Client fidèle
+Anna Leroy,28,2,91.29,4,2,1,7,Client fidèle
+Lina Dubois,37,1,792.07,4,1,2,7,Nouveau / occasionnel
+Jules Martin,39,2,577.3,4,2,1,7,Client fidèle
+Inès Richard,49,1,733.6,4,1,2,7,Nouveau / occasionnel
+Liam David,51,2,197.34,4,2,1,7,Client fidèle
+Lucas Michel,59,1,786.03,4,1,2,7,Nouveau / occasionnel
+Manon Garcia,69,2,565.27,4,2,1,7,Client fidèle
+Raphaël Bertrand,71,2,571.63,4,2,1,7,Client fidèle
+Léa Dubois,80,2,673.01,3,2,2,7,Client fidèle
+Camille Durand,81,1,1168.37,3,2,2,7,Client fidèle
+Chloé Vincent,85,1,915.29,3,2,2,7,Client fidèle
+Noé Thomas,89,1,1094.02,3,2,2,7,Client fidèle
+Jules Robert,93,1,1060.87,3,2,2,7,Client fidèle
+Inès Petit,98,1,1352.85,3,2,2,7,Client fidèle
+Louis Lefebvre,120,2,914.34,3,2,2,7,Client fidèle
+Louis Lefebvre,133,1,912.72,3,2,2,7,Client fidèle
+Camille Thomas,140,2,814.58,3,2,2,7,Client fidèle
+Louis Thomas,151,2,1234.48,3,2,2,7,Client fidèle
+Liam Robert,156,1,1230.81,3,2,2,7,Client fidèle
+Camille Michel,159,1,1072.08,3,2,2,7,Client fidèle
+Louis David,166,1,1003.57,3,2,2,7,Client fidèle
+Jade David,174,2,713.05,3,2,2,7,Client fidèle
+Tom Dubois,179,1,1398.3,3,2,2,7,Client fidèle
+Adam Moreau,196,1,866.53,3,2,2,7,Client fidèle
+Lina Leroy,198,2,1387.61,3,2,2,7,Client fidèle
+Anna Leroy,204,1,1066.47,3,2,2,7,Client fidèle
+Adam Petit,205,2,817.63,3,2,2,7,Client fidèle
+Noé Durand,212,2,1046.23,3,2,2,7,Client fidèle
+Louis Bertrand,213,2,664.06,3,2,2,7,Client fidèle
+Louis Leroy,217,1,868.73,3,2,2,7,Client fidèle
+Raphaël Michel,228,1,926.79,3,2,2,7,Client fidèle
+Lucas Robert,234,1,818.18,3,2,2,7,Client fidèle
+Manon David,237,2,1311.85,3,2,2,7,Client fidèle
+Jules Petit,239,2,909.01,3,2,2,7,Client fidèle
+Inès Laurent,261,1,975.14,3,2,2,7,Client fidèle
+Louis Simon,267,3,584.52,3,3,1,7,Client fidèle
+Manon Garcia,268,1,947.84,3,2,2,7,Client fidèle
+Camille Dubois,277,2,1005.46,3,2,2,7,Client fidèle
+Tom Durand,285,1,1034.84,3,2,2,7,Client fidèle
+Hugo Vincent,287,2,1007.82,3,2,2,7,Client fidèle
+Tom Petit,294,1,814.76,3,2,2,7,Client fidèle
+Mia Petit,309,3,1167.81,2,3,2,7,À risque (était bon client)
+Lina Michel,320,2,1467.91,2,2,3,7,Inactif / perdu
+Chloé Bernard,325,4,1145.71,2,3,2,7,À risque (était bon client)
+Léa Bertrand,351,3,1388.78,2,3,2,7,À risque (était bon client)
+Nathan Simon,360,3,1198.41,2,3,2,7,À risque (était bon client)
+Lucas Bernard,372,3,1332.7,2,3,2,7,À risque (était bon client)
+Liam Dubois,375,2,1498.09,2,2,3,7,Inactif / perdu
+Léa Richard,392,2,1531.58,2,2,3,7,Inactif / perdu
+Louis Garcia,410,1,1590.83,2,2,3,7,Inactif / perdu
+Jules Simon,444,3,1065.19,2,3,2,7,À risque (était bon client)
+Manon David,449,4,1335.5,2,3,2,7,À risque (était bon client)
+Théo Bernard,461,2,1879.49,2,2,3,7,Inactif / perdu
+Mia Lefebvre,462,1,1471.37,2,2,3,7,Inactif / perdu
+Camille Roux,470,1,1577.82,2,2,3,7,Inactif / perdu
+Léa David,480,3,1104.01,2,3,2,7,À risque (était bon client)
+Sarah David,499,1,1430.31,2,2,3,7,Inactif / perdu
+Manon Vincent,552,1,1683.72,2,2,3,7,Inactif / perdu
+Liam Richard,583,4,2542.69,1,3,3,7,À risque (était bon client)
+Hugo Bertrand,583,5,3302.81,1,3,3,7,À risque (était bon client)
+Zoé Thomas,584,4,2052.22,1,3,3,7,À risque (était bon client)
+Jules Garcia,585,5,2244.46,1,3,3,7,À risque (était bon client)
+Camille Fournier,587,4,1565.91,1,3,3,7,À risque (était bon client)
+Lina Lefebvre,610,3,1868.14,1,3,3,7,À risque (était bon client)
+Lina Vincent,631,3,3047.83,1,3,3,7,À risque (était bon client)
+Jules Vincent,641,3,1622.6,1,3,3,7,À risque (était bon client)
+Tom Lefebvre,648,4,1695.65,1,3,3,7,À risque (était bon client)
+Emma David,651,3,2355.59,1,3,3,7,À risque (était bon client)
+Tom Vincent,665,4,2001.38,1,3,3,7,À risque (était bon client)
+Manon Simon,666,3,1580.23,1,3,3,7,À risque (était bon client)
+Jules Thomas,669,4,2687.06,1,3,3,7,À risque (était bon client)
+Chloé Simon,681,3,1434.33,1,3,3,7,À risque (était bon client)
+Théo Richard,700,3,1786.13,1,3,3,7,À risque (était bon client)
+Lucas Bernard,722,4,2311.97,1,3,3,7,À risque (était bon client)
+Sarah Michel,724,3,2069.83,1,3,3,7,À risque (était bon client)
+Louis Thomas,728,3,2892.59,1,3,3,7,À risque (était bon client)
+Hugo Simon,735,3,1628.98,1,3,3,7,À risque (était bon client)
+Gabriel Robert,740,3,1837.03,1,3,3,7,À risque (était bon client)
+Tom Bertrand,741,3,1627.71,1,3,3,7,À risque (était bon client)
+Gabriel Michel,793,3,2261.0,1,3,3,7,À risque (était bon client)
+Sarah Petit,831,2,2306.02,1,3,3,7,À risque (était bon client)
+Camille Fournier,888,3,1606.12,1,3,3,7,À risque (était bon client)
+Lucas Vincent,1029,2,2901.8,1,3,3,7,À risque (était bon client)
+Emma Robert,20,1,319.62,4,1,1,6,Nouveau / occasionnel
+Lucas Garcia,22,1,469.44,4,1,1,6,Nouveau / occasionnel
+Lina Petit,25,1,466.02,4,1,1,6,Nouveau / occasionnel
+Inès Petit,47,1,344.41,4,1,1,6,Nouveau / occasionnel
+Emma Laurent,50,1,234.7,4,1,1,6,Nouveau / occasionnel
+Nathan Richard,50,1,522.34,4,1,1,6,Nouveau / occasionnel
+Théo Robert,53,1,353.38,4,1,1,6,Nouveau / occasionnel
+Lucas Martin,54,1,22.9,4,1,1,6,Nouveau / occasionnel
+Jules Laurent,59,1,566.21,4,1,1,6,Nouveau / occasionnel
+Mia Martin,65,1,341.04,4,1,1,6,Nouveau / occasionnel
+Emma Petit,67,1,234.93,4,1,1,6,Nouveau / occasionnel
+Nathan Leroy,72,1,297.88,4,1,1,6,Nouveau / occasionnel
+Nathan Simon,75,1,641.77,4,1,1,6,Nouveau / occasionnel
+Lucas Michel,88,1,700.86,3,1,2,6,Nouveau / occasionnel
+Théo Robert,101,2,507.65,3,2,1,6,Client fidèle
+Sarah Martin,111,2,633.54,3,2,1,6,Client fidèle
+Hugo Durand,134,1,709.64,3,1,2,6,Nouveau / occasionnel
+Hugo Durand,140,1,792.54,3,1,2,6,Nouveau / occasionnel
+Camille Michel,147,1,718.59,3,1,2,6,Nouveau / occasionnel
+Nathan Dubois,153,1,748.77,3,1,2,6,Nouveau / occasionnel
+Camille Laurent,164,1,668.28,3,1,2,6,Nouveau / occasionnel
+Hugo Dubois,204,1,753.07,3,1,2,6,Nouveau / occasionnel
+Manon Dubois,221,2,637.96,3,2,1,6,Client fidèle
+Camille Leroy,225,2,533.5,3,2,1,6,Client fidèle
+Chloé Moreau,255,2,433.08,3,2,1,6,Client fidèle
+Jules Vincent,267,2,612.57,3,2,1,6,Client fidèle
+Adam Robert,291,1,772.14,3,1,2,6,Nouveau / occasionnel
+Louis Moreau,294,1,730.94,3,1,2,6,Nouveau / occasionnel
+Liam Garcia,299,2,1047.17,2,2,2,6,Inactif / perdu
+Lucas Garcia,305,2,1385.24,2,2,2,6,Inactif / perdu
+Sarah Robert,313,2,1404.96,2,2,2,6,Inactif / perdu
+Théo Dubois,320,1,1427.12,2,2,2,6,Inactif / perdu
+Sarah Durand,323,1,939.66,2,2,2,6,Inactif / perdu
+Zoé Roux,335,2,1242.91,2,2,2,6,Inactif / perdu
+Lina Durand,335,2,1271.08,2,2,2,6,Inactif / perdu
+Nathan Garcia,344,1,1291.4,2,2,2,6,Inactif / perdu
+Tom Petit,348,1,1258.95,2,2,2,6,Inactif / perdu
+Tom Leroy,349,1,932.9,2,2,2,6,Inactif / perdu
+Sarah David,357,1,1302.25,2,2,2,6,Inactif / perdu
+Mia Durand,357,2,1178.01,2,2,2,6,Inactif / perdu
+Chloé Moreau,364,2,1343.14,2,2,2,6,Inactif / perdu
+Gabriel Moreau,369,1,1034.71,2,2,2,6,Inactif / perdu
+Théo Roux,378,1,887.12,2,2,2,6,Inactif / perdu
+Lina Garcia,386,2,1396.6,2,2,2,6,Inactif / perdu
+Gabriel Lefebvre,390,1,950.69,2,2,2,6,Inactif / perdu
+Louis Dubois,396,1,1064.52,2,2,2,6,Inactif / perdu
+Jules Lefebvre,410,2,883.0,2,2,2,6,Inactif / perdu
+Liam Leroy,414,1,1329.42,2,2,2,6,Inactif / perdu
+Chloé Martin,416,3,653.33,2,3,1,6,À risque (était bon client)
+Théo Durand,417,1,812.73,2,2,2,6,Inactif / perdu
+Sarah Petit,441,1,1298.71,2,2,2,6,Inactif / perdu
+Inès Richard,443,1,822.33,2,2,2,6,Inactif / perdu
+Mia Simon,447,2,1114.51,2,2,2,6,Inactif / perdu
+Noé Durand,466,2,1107.76,2,2,2,6,Inactif / perdu
+Raphaël Roux,476,2,1222.55,2,2,2,6,Inactif / perdu
+Gabriel Laurent,477,2,710.18,2,2,2,6,Inactif / perdu
+Louis Petit,490,2,784.67,2,2,2,6,Inactif / perdu
+Lina Vincent,490,2,891.72,2,2,2,6,Inactif / perdu
+Hugo Bertrand,494,1,1123.95,2,2,2,6,Inactif / perdu
+Emma Bernard,496,1,1195.43,2,2,2,6,Inactif / perdu
+Mia Durand,510,1,855.23,2,2,2,6,Inactif / perdu
+Sarah Lefebvre,513,1,1196.27,2,2,2,6,Inactif / perdu
+Léa Bernard,521,2,1249.51,2,2,2,6,Inactif / perdu
+Jules Michel,528,1,1115.01,2,2,2,6,Inactif / perdu
+Noé Robert,530,1,928.9,2,2,2,6,Inactif / perdu
+Théo David,536,2,891.21,2,2,2,6,Inactif / perdu
+Anna Garcia,546,1,892.44,2,2,2,6,Inactif / perdu
+Jules Vincent,547,1,999.68,2,2,2,6,Inactif / perdu
+Manon Fournier,549,1,934.95,2,2,2,6,Inactif / perdu
+Camille Moreau,568,3,442.95,2,3,1,6,À risque (était bon client)
+Inès Roux,570,2,1025.31,2,2,2,6,Inactif / perdu
+Théo Garcia,572,2,657.94,2,2,2,6,Inactif / perdu
+Sarah Moreau,606,3,1075.52,1,3,2,6,À risque (était bon client)
+Théo Simon,691,4,1300.98,1,3,2,6,À risque (était bon client)
+Gabriel Robert,702,4,1402.42,1,3,2,6,À risque (était bon client)
+Chloé Vincent,715,3,808.74,1,3,2,6,À risque (était bon client)
+Mia Robert,715,3,1229.43,1,3,2,6,À risque (était bon client)
+Nathan Dubois,731,1,1430.43,1,2,3,6,Inactif / perdu
+Manon David,764,2,1662.53,1,2,3,6,Inactif / perdu
+Mia Moreau,808,1,1460.78,1,2,3,6,Inactif / perdu
+Louis Durand,823,2,1660.97,1,2,3,6,Inactif / perdu
+Manon Garcia,831,2,2218.42,1,2,3,6,Inactif / perdu
+Emma Moreau,842,2,1499.15,1,2,3,6,Inactif / perdu
+Gabriel Bernard,875,2,1441.99,1,2,3,6,Inactif / perdu
+Lina Michel,899,2,1451.9,1,2,3,6,Inactif / perdu
+Lucas Dubois,924,2,2073.02,1,2,3,6,Inactif / perdu
+Mia Michel,992,2,1780.1,1,2,3,6,Inactif / perdu
+Adam Simon,1025,2,2047.73,1,2,3,6,Inactif / perdu
+Raphaël Dubois,86,1,197.15,3,1,1,5,Nouveau / occasionnel
+Jade Leroy,86,1,421.88,3,1,1,5,Nouveau / occasionnel
+Sarah Fournier,89,1,426.76,3,1,1,5,Nouveau / occasionnel
+Mia Thomas,97,1,203.12,3,1,1,5,Nouveau / occasionnel
+Emma Bertrand,99,1,50.32,3,1,1,5,Nouveau / occasionnel
+Louis Lefebvre,103,1,207.42,3,1,1,5,Nouveau / occasionnel
+Chloé Bernard,105,1,309.49,3,1,1,5,Nouveau / occasionnel
+Louis Bernard,105,1,562.5,3,1,1,5,Nouveau / occasionnel
+Gabriel Richard,108,1,141.44,3,1,1,5,Nouveau / occasionnel
+Liam Richard,108,1,536.1,3,1,1,5,Nouveau / occasionnel
+Liam Moreau,111,1,236.79,3,1,1,5,Nouveau / occasionnel
+Gabriel Bernard,114,1,377.04,3,1,1,5,Nouveau / occasionnel
+Théo Thomas,115,1,570.57,3,1,1,5,Nouveau / occasionnel
+Nathan Dubois,116,1,396.9,3,1,1,5,Nouveau / occasionnel
+Nathan Thomas,145,1,64.68,3,1,1,5,Nouveau / occasionnel
+Manon Garcia,155,1,530.9,3,1,1,5,Nouveau / occasionnel
+Théo Robert,161,1,59.62,3,1,1,5,Nouveau / occasionnel
+Inès Simon,177,1,318.66,3,1,1,5,Nouveau / occasionnel
+Hugo Petit,177,1,617.09,3,1,1,5,Nouveau / occasionnel
+Lina David,189,1,345.32,3,1,1,5,Nouveau / occasionnel
+Camille David,191,1,104.42,3,1,1,5,Nouveau / occasionnel
+Zoé Garcia,193,1,628.26,3,1,1,5,Nouveau / occasionnel
+Camille Roux,206,1,325.8,3,1,1,5,Nouveau / occasionnel
+Lucas Robert,237,1,163.58,3,1,1,5,Nouveau / occasionnel
+Adam Durand,245,1,556.42,3,1,1,5,Nouveau / occasionnel
+Hugo Vincent,248,1,493.92,3,1,1,5,Nouveau / occasionnel
+Louis Moreau,258,1,396.83,3,1,1,5,Nouveau / occasionnel
+Liam Laurent,262,1,418.18,3,1,1,5,Nouveau / occasionnel
+Jade Lefebvre,265,1,102.88,3,1,1,5,Nouveau / occasionnel
+Raphaël Thomas,266,1,31.59,3,1,1,5,Nouveau / occasionnel
+Léa Bernard,267,1,337.86,3,1,1,5,Nouveau / occasionnel
+Nathan Martin,269,1,638.79,3,1,1,5,Nouveau / occasionnel
+Zoé Leroy,281,1,159.39,3,1,1,5,Nouveau / occasionnel
+Théo Leroy,287,1,528.18,3,1,1,5,Nouveau / occasionnel
+Nathan Lefebvre,318,1,740.36,2,1,2,5,Inactif / perdu
+Tom Garcia,318,2,414.96,2,2,1,5,Inactif / perdu
+Louis Vincent,323,2,289.31,2,2,1,5,Inactif / perdu
+Gabriel Laurent,329,2,642.31,2,2,1,5,Inactif / perdu
+Gabriel Moreau,350,1,714.54,2,1,2,5,Inactif / perdu
+Tom Roux,361,2,455.21,2,2,1,5,Inactif / perdu
+Noé Martin,365,1,749.88,2,1,2,5,Inactif / perdu
+Camille Bernard,397,2,304.03,2,2,1,5,Inactif / perdu
+Manon Martin,422,1,796.64,2,1,2,5,Inactif / perdu
+Zoé Martin,437,2,191.58,2,2,1,5,Inactif / perdu
+Inès Simon,473,1,754.26,2,1,2,5,Inactif / perdu
+Hugo Bernard,502,1,738.99,2,1,2,5,Inactif / perdu
+Noé Roux,514,1,659.25,2,1,2,5,Inactif / perdu
+Jules Petit,537,2,522.61,2,2,1,5,Inactif / perdu
+Adam Lefebvre,553,1,766.56,2,1,2,5,Inactif / perdu
+Inès Michel,575,2,973.85,1,2,2,5,Inactif / perdu
+Lina Dubois,578,2,943.51,1,2,2,5,Inactif / perdu
+Tom David,589,2,1009.93,1,2,2,5,Inactif / perdu
+Inès Petit,596,2,1333.26,1,2,2,5,Inactif / perdu
+Raphaël Dubois,598,2,976.51,1,2,2,5,Inactif / perdu
+Liam Fournier,618,2,1352.39,1,2,2,5,Inactif / perdu
+Nathan Simon,622,1,1019.59,1,2,2,5,Inactif / perdu
+Anna Fournier,644,1,799.02,1,2,2,5,Inactif / perdu
+Inès Leroy,649,2,1308.79,1,2,2,5,Inactif / perdu
+Théo Martin,650,2,863.75,1,2,2,5,Inactif / perdu
+Sarah Roux,678,1,1414.92,1,2,2,5,Inactif / perdu
+Sarah Thomas,687,2,863.46,1,2,2,5,Inactif / perdu
+Adam Robert,700,1,1087.0,1,2,2,5,Inactif / perdu
+Manon Moreau,702,1,878.31,1,2,2,5,Inactif / perdu
+Noé Simon,702,1,991.07,1,2,2,5,Inactif / perdu
+Tom Garcia,728,2,1070.01,1,2,2,5,Inactif / perdu
+Sarah Richard,735,1,813.47,1,2,2,5,Inactif / perdu
+Hugo Garcia,741,1,1317.05,1,2,2,5,Inactif / perdu
+Hugo Martin,772,3,627.43,1,3,1,5,À risque (était bon client)
+Manon Bertrand,807,2,1255.83,1,2,2,5,Inactif / perdu
+Manon Martin,809,2,1201.95,1,2,2,5,Inactif / perdu
+Jules Richard,814,2,1080.76,1,2,2,5,Inactif / perdu
+Adam Bertrand,820,2,814.43,1,2,2,5,Inactif / perdu
+Théo Simon,824,1,1160.38,1,2,2,5,Inactif / perdu
+Inès Richard,826,1,1026.7,1,2,2,5,Inactif / perdu
+Hugo Thomas,830,1,1206.36,1,2,2,5,Inactif / perdu
+Adam Dubois,835,2,1139.4,1,2,2,5,Inactif / perdu
+Liam Fournier,840,2,664.64,1,2,2,5,Inactif / perdu
+Nathan Laurent,850,1,900.07,1,2,2,5,Inactif / perdu
+Anna Bernard,853,1,943.61,1,2,2,5,Inactif / perdu
+Louis Dubois,879,1,1250.53,1,2,2,5,Inactif / perdu
+Anna Fournier,887,1,985.14,1,2,2,5,Inactif / perdu
+Louis Durand,902,1,1056.94,1,2,2,5,Inactif / perdu
+Théo Richard,904,2,1280.2,1,2,2,5,Inactif / perdu
+Raphaël Petit,915,2,894.66,1,2,2,5,Inactif / perdu
+Mia Robert,920,1,982.27,1,2,2,5,Inactif / perdu
+Jules Richard,958,1,993.88,1,2,2,5,Inactif / perdu
+Sarah Robert,961,1,889.71,1,2,2,5,Inactif / perdu
+Adam Martin,961,1,1053.03,1,2,2,5,Inactif / perdu
+Lina Fournier,966,1,1148.16,1,2,2,5,Inactif / perdu
+Tom Dubois,989,1,1111.75,1,2,2,5,Inactif / perdu
+Camille Leroy,1006,1,1224.13,1,2,2,5,Inactif / perdu
+Jules Fournier,1012,1,848.97,1,2,2,5,Inactif / perdu
+Inès Durand,1026,1,1427.66,1,2,2,5,Inactif / perdu
+Gabriel David,1027,1,799.72,1,2,2,5,Inactif / perdu
+Lucas Vincent,1041,2,700.65,1,2,2,5,Inactif / perdu
+Louis Lefebvre,1049,1,829.58,1,2,2,5,Inactif / perdu
+Zoé Lefebvre,1057,1,1130.86,1,2,2,5,Inactif / perdu
+Noé Robert,301,1,95.3,2,1,1,4,Inactif / perdu
+Noé Garcia,310,1,654.89,2,1,1,4,Inactif / perdu
+Liam Fournier,314,1,512.13,2,1,1,4,Inactif / perdu
+Mia Thomas,328,1,86.43,2,1,1,4,Inactif / perdu
+Anna Lefebvre,334,1,614.84,2,1,1,4,Inactif / perdu
+Jade Richard,348,1,33.48,2,1,1,4,Inactif / perdu
+Lina Dubois,353,1,595.43,2,1,1,4,Inactif / perdu
+Adam Moreau,364,1,180.15,2,1,1,4,Inactif / perdu
+Lina Durand,366,1,558.33,2,1,1,4,Inactif / perdu
+Hugo Fournier,375,1,456.17,2,1,1,4,Inactif / perdu
+Camille Leroy,384,1,322.32,2,1,1,4,Inactif / perdu
+Hugo Martin,384,1,579.45,2,1,1,4,Inactif / perdu
+Raphaël Robert,385,1,469.28,2,1,1,4,Inactif / perdu
+Nathan David,390,1,586.08,2,1,1,4,Inactif / perdu
+Sarah Fournier,400,1,451.18,2,1,1,4,Inactif / perdu
+Gabriel Bernard,401,1,216.04,2,1,1,4,Inactif / perdu
+Camille Durand,416,1,212.66,2,1,1,4,Inactif / perdu
+Léa Simon,437,1,116.78,2,1,1,4,Inactif / perdu
+Manon Simon,437,1,384.83,2,1,1,4,Inactif / perdu
+Raphaël Richard,441,1,591.09,2,1,1,4,Inactif / perdu
+Gabriel Bernard,441,1,631.97,2,1,1,4,Inactif / perdu
+Zoé Richard,461,1,23.6,2,1,1,4,Inactif / perdu
+Jade Bertrand,463,1,460.57,2,1,1,4,Inactif / perdu
+Liam Simon,463,1,513.37,2,1,1,4,Inactif / perdu
+Emma David,487,1,417.64,2,1,1,4,Inactif / perdu
+Anna Vincent,487,1,492.64,2,1,1,4,Inactif / perdu
+Inès Durand,491,1,73.28,2,1,1,4,Inactif / perdu
+Tom Lefebvre,495,1,322.86,2,1,1,4,Inactif / perdu
+Emma Dubois,495,1,496.28,2,1,1,4,Inactif / perdu
+Zoé Michel,497,1,381.0,2,1,1,4,Inactif / perdu
+Liam Bertrand,503,1,564.03,2,1,1,4,Inactif / perdu
+Zoé David,518,1,492.11,2,1,1,4,Inactif / perdu
+Adam Simon,523,1,245.31,2,1,1,4,Inactif / perdu
+Camille Bernard,530,1,140.49,2,1,1,4,Inactif / perdu
+Adam Lefebvre,531,1,519.99,2,1,1,4,Inactif / perdu
+Sarah Michel,532,1,164.4,2,1,1,4,Inactif / perdu
+Camille Robert,539,1,251.71,2,1,1,4,Inactif / perdu
+Emma Richard,557,1,93.54,2,1,1,4,Inactif / perdu
+Tom Thomas,568,1,425.22,2,1,1,4,Inactif / perdu
+Raphaël Leroy,570,1,395.9,2,1,1,4,Inactif / perdu
+Liam Laurent,572,1,196.88,2,1,1,4,Inactif / perdu
+Chloé Leroy,583,1,701.89,1,1,2,4,Inactif / perdu
+Noé Robert,583,2,530.48,1,2,1,4,Inactif / perdu
+Anna Thomas,595,1,747.12,1,1,2,4,Inactif / perdu
+Raphaël Lefebvre,614,1,797.07,1,1,2,4,Inactif / perdu
+Liam Martin,650,1,740.43,1,1,2,4,Inactif / perdu
+Léa Roux,670,1,669.68,1,1,2,4,Inactif / perdu
+Emma Bernard,679,1,773.73,1,1,2,4,Inactif / perdu
+Gabriel Bertrand,690,2,636.92,1,2,1,4,Inactif / perdu
+Raphaël Fournier,704,2,427.11,1,2,1,4,Inactif / perdu
+Lucas Leroy,723,1,659.62,1,1,2,4,Inactif / perdu
+Lina Fournier,734,2,355.98,1,2,1,4,Inactif / perdu
+Adam Simon,737,1,730.59,1,1,2,4,Inactif / perdu
+Théo Petit,747,2,643.06,1,2,1,4,Inactif / perdu
+Raphaël Roux,758,1,781.76,1,1,2,4,Inactif / perdu
+Jade Roux,764,1,736.16,1,1,2,4,Inactif / perdu
+Adam Durand,800,2,520.95,1,2,1,4,Inactif / perdu
+Hugo Robert,819,2,526.51,1,2,1,4,Inactif / perdu
+Adam Laurent,839,1,713.8,1,1,2,4,Inactif / perdu
+Mia Petit,865,1,786.0,1,1,2,4,Inactif / perdu
+Inès Fournier,900,2,523.39,1,2,1,4,Inactif / perdu
+Liam Richard,903,1,704.55,1,1,2,4,Inactif / perdu
+Raphaël Thomas,903,2,335.19,1,2,1,4,Inactif / perdu
+Inès Moreau,916,2,645.25,1,2,1,4,Inactif / perdu
+Lucas David,939,1,759.25,1,1,2,4,Inactif / perdu
+Hugo Laurent,953,2,578.4,1,2,1,4,Inactif / perdu
+Zoé Durand,965,2,589.27,1,2,1,4,Inactif / perdu
+Camille Martin,996,2,466.26,1,2,1,4,Inactif / perdu
+Jade Durand,999,1,758.47,1,1,2,4,Inactif / perdu
+Zoé David,1003,1,672.64,1,1,2,4,Inactif / perdu
+Chloé Bernard,1023,1,699.24,1,1,2,4,Inactif / perdu
+Camille Garcia,1032,1,669.04,1,1,2,4,Inactif / perdu
+Inès Dubois,1032,1,711.46,1,1,2,4,Inactif / perdu
+Noé Fournier,1042,2,175.68,1,2,1,4,Inactif / perdu
+Manon Durand,573,1,491.62,1,1,1,3,Inactif / perdu
+Louis Roux,579,1,338.18,1,1,1,3,Inactif / perdu
+Sarah Leroy,585,1,297.68,1,1,1,3,Inactif / perdu
+Adam Vincent,593,1,25.84,1,1,1,3,Inactif / perdu
+Sarah Moreau,605,1,560.8,1,1,1,3,Inactif / perdu
+Gabriel Fournier,607,1,543.26,1,1,1,3,Inactif / perdu
+Jade Michel,614,1,377.76,1,1,1,3,Inactif / perdu
+Lina Simon,626,1,596.06,1,1,1,3,Inactif / perdu
+Sarah Roux,627,1,584.83,1,1,1,3,Inactif / perdu
+Manon Robert,632,1,529.53,1,1,1,3,Inactif / perdu
+Manon Moreau,637,1,408.16,1,1,1,3,Inactif / perdu
+Gabriel David,643,1,375.06,1,1,1,3,Inactif / perdu
+Léa Roux,647,1,187.82,1,1,1,3,Inactif / perdu
+Raphaël Roux,659,1,295.74,1,1,1,3,Inactif / perdu
+Raphaël Lefebvre,660,1,167.58,1,1,1,3,Inactif / perdu
+Liam Simon,665,1,359.16,1,1,1,3,Inactif / perdu
+Manon Bernard,665,1,375.72,1,1,1,3,Inactif / perdu
+Lina Laurent,669,1,392.2,1,1,1,3,Inactif / perdu
+Hugo Thomas,672,1,206.58,1,1,1,3,Inactif / perdu
+Gabriel Robert,673,1,6.97,1,1,1,3,Inactif / perdu
+Camille Bertrand,676,1,251.72,1,1,1,3,Inactif / perdu
+Sarah David,681,1,15.18,1,1,1,3,Inactif / perdu
+Tom Richard,687,1,139.22,1,1,1,3,Inactif / perdu
+Gabriel Petit,691,1,113.36,1,1,1,3,Inactif / perdu
+Hugo Lefebvre,700,1,205.25,1,1,1,3,Inactif / perdu
+Camille Lefebvre,701,1,314.16,1,1,1,3,Inactif / perdu
+Zoé Roux,714,1,413.56,1,1,1,3,Inactif / perdu
+Emma Michel,735,1,182.92,1,1,1,3,Inactif / perdu
+Camille Bertrand,737,1,127.94,1,1,1,3,Inactif / perdu
+Adam Robert,738,1,237.69,1,1,1,3,Inactif / perdu
+Zoé Garcia,739,1,657.02,1,1,1,3,Inactif / perdu
+Adam Martin,740,1,162.61,1,1,1,3,Inactif / perdu
+Raphaël Thomas,741,1,295.61,1,1,1,3,Inactif / perdu
+Louis Bertrand,747,1,462.31,1,1,1,3,Inactif / perdu
+Gabriel Bernard,749,1,397.6,1,1,1,3,Inactif / perdu
+Raphaël Laurent,752,1,470.24,1,1,1,3,Inactif / perdu
+Sarah Lefebvre,761,1,407.3,1,1,1,3,Inactif / perdu
+Sarah Lefebvre,761,1,443.98,1,1,1,3,Inactif / perdu
+Hugo Moreau,763,1,640.82,1,1,1,3,Inactif / perdu
+Zoé Durand,777,1,155.09,1,1,1,3,Inactif / perdu
+Tom Fournier,782,1,640.12,1,1,1,3,Inactif / perdu
+Tom Bernard,792,1,556.74,1,1,1,3,Inactif / perdu
+Inès Dubois,800,1,457.44,1,1,1,3,Inactif / perdu
+Jules Richard,803,1,136.17,1,1,1,3,Inactif / perdu
+Emma Roux,808,1,637.65,1,1,1,3,Inactif / perdu
+Adam Martin,820,1,624.05,1,1,1,3,Inactif / perdu
+Tom Dubois,826,1,133.04,1,1,1,3,Inactif / perdu
+Louis Richard,831,1,466.56,1,1,1,3,Inactif / perdu
+Tom Laurent,838,1,405.69,1,1,1,3,Inactif / perdu
+Inès Moreau,840,1,549.49,1,1,1,3,Inactif / perdu
+Tom Bernard,844,1,381.76,1,1,1,3,Inactif / perdu
+Gabriel Martin,845,1,550.59,1,1,1,3,Inactif / perdu
+Hugo Roux,851,1,147.72,1,1,1,3,Inactif / perdu
+Inès Leroy,857,1,417.08,1,1,1,3,Inactif / perdu
+Mia Fournier,870,1,180.68,1,1,1,3,Inactif / perdu
+Anna Robert,870,1,293.84,1,1,1,3,Inactif / perdu
+Théo Roux,892,1,424.16,1,1,1,3,Inactif / perdu
+Hugo Lefebvre,900,1,312.81,1,1,1,3,Inactif / perdu
+Raphaël Leroy,902,1,55.61,1,1,1,3,Inactif / perdu
+Chloé Durand,906,1,479.56,1,1,1,3,Inactif / perdu
+Raphaël Vincent,912,1,99.7,1,1,1,3,Inactif / perdu
+Théo David,918,1,617.28,1,1,1,3,Inactif / perdu
+Raphaël Garcia,931,1,292.17,1,1,1,3,Inactif / perdu
+Liam Dubois,932,1,338.54,1,1,1,3,Inactif / perdu
+Liam Lefebvre,934,1,320.37,1,1,1,3,Inactif / perdu
+Zoé Moreau,940,1,419.24,1,1,1,3,Inactif / perdu
+Mia Thomas,944,1,540.36,1,1,1,3,Inactif / perdu
+Adam Dubois,945,1,463.72,1,1,1,3,Inactif / perdu
+Liam Robert,950,1,87.09,1,1,1,3,Inactif / perdu
+Adam Durand,954,1,370.42,1,1,1,3,Inactif / perdu
+Manon Laurent,967,1,370.65,1,1,1,3,Inactif / perdu
+Zoé Vincent,973,1,213.66,1,1,1,3,Inactif / perdu
+Tom Roux,974,1,219.51,1,1,1,3,Inactif / perdu
+Zoé Durand,980,1,384.73,1,1,1,3,Inactif / perdu
+Jules Michel,996,1,354.1,1,1,1,3,Inactif / perdu
+Camille Vincent,996,1,434.66,1,1,1,3,Inactif / perdu
+Jade Bertrand,997,1,340.46,1,1,1,3,Inactif / perdu
+Anna Dubois,1011,1,65.22,1,1,1,3,Inactif / perdu
+Inès David,1021,1,592.06,1,1,1,3,Inactif / perdu
+Zoé Richard,1022,1,381.25,1,1,1,3,Inactif / perdu
+Tom Lefebvre,1027,1,214.32,1,1,1,3,Inactif / perdu
+Nathan Petit,1034,1,394.26,1,1,1,3,Inactif / perdu
+Gabriel Lefebvre,1036,1,239.0,1,1,1,3,Inactif / perdu
+Mia David,1041,1,419.25,1,1,1,3,Inactif / perdu
+Sarah Laurent,1047,1,308.9,1,1,1,3,Inactif / perdu
+Adam Fournier,1050,1,197.4,1,1,1,3,Inactif / perdu
+Léa Bertrand,1052,1,200.85,1,1,1,3,Inactif / perdu
+Gabriel Fournier,1053,1,593.57,1,1,1,3,Inactif / perdu
+Léa Durand,1054,1,648.27,1,1,1,3,Inactif / perdu
+Tom Martin,1067,1,158.17,1,1,1,3,Inactif / perdu

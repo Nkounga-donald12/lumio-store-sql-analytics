@@ -1,0 +1,5 @@
+statut_client,nb_clients,pct_base_clients
+One-shot (1 commande),307,34.1
+Client récurrent mais churné (>6 mois inactif),284,31.6
+Client récurrent actif,276,30.7
+Jamais commandé,33,3.7
